@@ -1,0 +1,60 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "gloucester travel guide",
+      "intents": [
+        {
+          "name": "AboutIntent",
+          "samples": [
+            "about",
+            "tell me about this location"
+          ]
+        },
+        {
+          "name": "AttractionIntent",
+          "samples": [
+            "attraction",
+            "recommend me an attraction"
+          ]
+        },
+        {
+          "name": "BreakfastIntent",
+          "samples": [
+            "breakfast",
+            "recommend me a restaurant for breakfast"
+          ]
+        },
+        {
+          "name": "DinnerIntent",
+          "samples": [
+            "dinner",
+            "recommend me a restaurant for dinner"
+          ]
+        },
+        {
+          "name": "LunchIntent",
+          "samples": [
+            "lunch",
+            "recommend me a restaurant for lunch"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        }
+      ]
+    }
+  }
+}

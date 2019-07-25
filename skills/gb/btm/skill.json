@@ -1,0 +1,42 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom/dist",
+          "uri": "bathTravelGuide"
+        }
+      }
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-GB": {
+          "name": "Bath Travel Guide",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/c188/6a8e1e9492ae4f44a6d2625f9d0da9b7/APP_ICON?versionId=KYhxKJ0pUJaXfcAOD6qKwjvYt4b01SQC&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1553622197&Signature=MCtqxGpyzUvgjc5wkBfOllnnNxs%3D",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f703/24d3653a1b9d459b851b0be37daccdca/APP_ICON_LARGE?versionId=6mzqdQFFD9IJydCxhtu2g5VOWfVsr0Tj&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1553622197&Signature=nVCS%2FeeRePN%2BSNQxQhLQFSxx37k%3D",
+          "summary": "Ask an expert for a recommendation on what to do in Bath.",
+          "description": "Ask an expert for a recommendation on what to do in Bath.",
+          "examplePhrases": [
+            "Alexa, open Bath Travel Guide.",
+            "Alexa, ask Bath Travel Guide to tell me about this location.",
+            "Alexa, ask Bath Travel Guide to recommend me an attraction."
+          ],
+          "keywords": [
+            "guide",
+            "travel"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "EDUCATION_AND_REFERENCE"
+    }
+  }
+}

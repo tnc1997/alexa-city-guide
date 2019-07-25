@@ -1,0 +1,33 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.91f5adcc-ed64-4b7f-9b64-be5ac5065903",
+      "was_cloned": false,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "f10891a7a634976f2a503f4c41d0e9a5"
+        },
+        "interactionModel": {
+          "en-GB": {
+            "eTag": "727007b6855b1e6e75d390741fbc2dda"
+          }
+        },
+        "lambda": [
+          {
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "arn": "arn:aws:lambda:eu-west-1:407620407470:function:gloucesterTravelGuide",
+            "awsRegion": "eu-west-1",
+            "codeUri": "lambda/custom/dist",
+            "functionName": "gloucesterTravelGuide",
+            "handler": "index.handler",
+            "revisionId": "f737dc04-0aa2-4405-afb7-db5abfdee548",
+            "runtime": "nodejs8.10"
+          }
+        ]
+      }
+    }
+  }
+}

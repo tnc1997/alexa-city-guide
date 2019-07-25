@@ -1,0 +1,33 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.fd825517-91e0-4d1e-a1df-b3c1cfeb6e1b",
+      "was_cloned": false,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "835d55321addcdb93c8649790ca1c464"
+        },
+        "interactionModel": {
+          "en-GB": {
+            "eTag": "1b1e4a433fa63b0ebcc0fbcc089fb433"
+          }
+        },
+        "lambda": [
+          {
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "arn": "arn:aws:lambda:eu-west-1:407620407470:function:bristolTravelGuide",
+            "awsRegion": "eu-west-1",
+            "codeUri": "lambda/custom/dist",
+            "functionName": "bristolTravelGuide",
+            "handler": "index.handler",
+            "revisionId": "455d8b41-96a7-44ae-9840-71042b8fcc41",
+            "runtime": "nodejs8.10"
+          }
+        ]
+      }
+    }
+  }
+}

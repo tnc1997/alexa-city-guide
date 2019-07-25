@@ -1,0 +1,33 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.b15527ce-2059-4ed2-ad89-1815b0678a37",
+      "was_cloned": false,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "d0c3db1e420c5d8b929a3702c556408a"
+        },
+        "interactionModel": {
+          "en-GB": {
+            "eTag": "67b6a44c80c0173f6f9cc2d9871e7dda"
+          }
+        },
+        "lambda": [
+          {
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "arn": "arn:aws:lambda:eu-west-1:407620407470:function:bathTravelGuide",
+            "awsRegion": "eu-west-1",
+            "codeUri": "lambda/custom/dist",
+            "functionName": "bathTravelGuide",
+            "handler": "index.handler",
+            "revisionId": "9ff8cdcb-8434-4fc3-ab60-b2c30452e32d",
+            "runtime": "nodejs8.10"
+          }
+        ]
+      }
+    }
+  }
+}

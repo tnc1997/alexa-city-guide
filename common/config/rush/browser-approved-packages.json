@@ -1,0 +1,98 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@alexa-travel-guides/entities",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@alexa-travel-guides/enums",
+      "allowedCategories": [ "libraries" ]
+    },
+    {
+      "name": "@alexa-travel-guides/handlers",
+      "allowedCategories": [ "skills" ]
+    },
+    {
+      "name": "@alexa-travel-guides/repositories",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@alexa-travel-guides/services",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@alexa-travel-guides/specifications",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@gulp-utils/gulp-core-build-api-documenter",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@gulp-utils/gulp-core-build-rollup",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@microsoft/gulp-core-build",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@microsoft/gulp-core-build-typescript",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@microsoft/rush-stack-compiler-3.2",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "@ts-utils/array",
+      "allowedCategories": [ "libraries" ]
+    },
+    {
+      "name": "ask-sdk-core",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "ask-sdk-model",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "aws-sdk",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "gulp",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "jest",
+      "allowedCategories": [ "libraries" ]
+    },
+    {
+      "name": "rollup",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "rollup-plugin-commonjs",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "rollup-plugin-json",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "rollup-plugin-node-resolve",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "tslint",
+      "allowedCategories": [ "libraries", "skills" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "libraries", "skills" ]
+    }
+  ]
+}

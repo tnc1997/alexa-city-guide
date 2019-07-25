@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon.svg">
+  <title
+     id="title5726">Alexa Travel Guides</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient839">
+      <stop
+         style="stop-color:#2de5fd;stop-opacity:1;"
+         offset="0"
+         id="stop835" />
+      <stop
+         style="stop-color:#6ea7f4;stop-opacity:1"
+         offset="1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient839"
+       id="linearGradient843"
+       gradientUnits="userSpaceOnUse"
+       x1="37.041122"
+       y1="37.041122"
+       x2="98.424927"
+       y2="98.424927" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7998047"
+     inkscape:cx="265.18405"
+     inkscape:cy="246.55234"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-page="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Alexa Travel Guides</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <circle
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient843);fill-opacity:1;fill-rule:nonzero;stroke:#e3d6d6;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path833"
+       cy="67.73333"
+       cx="67.73333"
+       r="66.407974" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <g
+       transform="translate(33.865903,-195.4)"
+       id="layer1"
+       inkscape:label="Layer 1"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3.16661716"
+         inkscape:connector-curvature="0"
+         d="m 44.329351,260.93226 c 7.916563,0 14.249718,6.33315 14.249718,14.24972 0,2.78658 -0.791105,5.41495 -2.184936,7.59988 l 9.75322,9.81653 -4.401587,4.40159 -9.879846,-9.7215 c -2.185055,1.36163 -4.781582,2.15333 -7.536569,2.15333 -7.916563,0 -14.250076,-6.33328 -14.250076,-14.24983 0,-7.91657 6.333513,-14.24972 14.250076,-14.24972 m 0,6.33315 a 7.916543,7.916543 0 0 0 -7.916563,7.91657 7.916543,7.916543 0 0 0 7.916563,7.91655 7.916543,7.916543 0 0 0 7.916563,-7.91655 7.916543,7.916543 0 0 0 -7.916563,-7.91657 m -4.749986,-24.98457 -18.999344,-6.68156 v 37.651 l 3.166817,1.10828 v 0.82342 c 0,2.0266 0.287239,3.99 0.825814,5.82653 l -3.98904,-1.39323 -16.9100344,6.55482 -0.5026692,0.0958 A 1.5833086,1.5833086 0 0 1 1.5875,284.68261 v -47.87925 c 0,-0.72768 0.4787326,-1.29832 1.1369901,-1.51998 l 17.8603189,-6.01671 18.999344,6.65007 16.909795,-6.65007 h 0.506261 a 1.5833086,1.5833086 0 0 1 1.583288,1.5834 v 29.4812 c -3.704912,-3.54657 -8.708148,-5.73151 -14.249717,-5.73151 -1.583289,0 -3.166697,0.1903 -4.749986,0.53858 z"
+         id="path1442" />
+    </g>
+  </g>
+</svg>

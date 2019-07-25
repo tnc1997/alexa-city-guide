@@ -1,0 +1,33 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.76ab8aa7-fc78-4954-9a40-91e1dceec677",
+      "was_cloned": false,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "99caf2e6c5eba4c670ad431d115978ae"
+        },
+        "interactionModel": {
+          "en-GB": {
+            "eTag": "4b7bfb958da13b6243819a5f9297351d"
+          }
+        },
+        "lambda": [
+          {
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "arn": "arn:aws:lambda:eu-west-1:407620407470:function:cheltenhamTravelGuide",
+            "awsRegion": "eu-west-1",
+            "codeUri": "lambda/custom/dist",
+            "functionName": "cheltenhamTravelGuide",
+            "handler": "index.handler",
+            "revisionId": "c74fc22d-0d21-4b13-9ef6-31240db09515",
+            "runtime": "nodejs8.10"
+          }
+        ]
+      }
+    }
+  }
+}
